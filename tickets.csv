@@ -1,0 +1,61 @@
+subject,body,category
+GST invoice needed,Can you send me a GST invoice for my last two payments this quarter?,Billing
+Office working hours,Can you tell me your office working hours for weekdays and weekends?,General
+Downgrade plan,I'd like to switch from the premium plan to a cheaper tier starting next month.,Billing
+Health insurance details,Can someone explain what's covered under our company health insurance plan?,HR
+Office location,What is the exact address of your Chennai regional office?,General
+Partnership meeting,Could we schedule a general call sometime this week to discuss a partnership?,General
+Salary not credited,"My salary for this month hasn't been credited yet, please look into it.",HR
+Login error,I'm getting a connection timed out error every time I try to log in.,Technical
+Refund request,"I was charged twice for my subscription this month, please refund the extra charge.",Billing
+Page freezing on save,"I can't save my changes, the page just freezes and nothing happens after that.",Technical
+Platform completely down,"The platform is completely down right now, I can't access anything, this is urgent.",Technical
+Payment not reflecting,I paid my bill three days ago but it's still showing as unpaid on my account.,Billing
+Update payment method,How do I update the credit card linked to my monthly subscription?,Billing
+Data not updating,The numbers on my analytics dashboard haven't updated in three days.,Technical
+General information request,Could you send over a general company brochure or overview document?,General
+Newsletter signup,Is there a newsletter I can subscribe to in order to get product updates?,General
+Mobile app force closing,The mobile app force closes right after I try to open the notifications tab.,Technical
+Attendance correction needed,"My attendance for last Friday is marked incorrectly, please help correct it.",HR
+Export throwing 500 error,I keep getting a 500 server error whenever I try to export my monthly report.,Technical
+About the company,Where can I read more about the company's history and the services offered?,General
+Slow after update,"Since the last update, the reporting module has been extremely slow to load.",Technical
+Maternity leave process,"I want to apply for maternity leave, what documents do I need to submit?",HR
+Broken link on portal,The support link on the homepage leads to a 404 not found page.,Technical
+ID card replacement,"I lost my employee ID card, how do I go about getting a replacement issued?",HR
+How to reach support,What's the best way to reach customer support outside of business hours?,General
+Feedback on website,"The overall website design looks great, just wanted to pass along the compliment.",General
+Event invitation,We're hosting an industry event next month and wanted to invite your team.,General
+General feedback,Just wanted to share some quick feedback about my overall experience so far.,General
+Dashboard not loading,"The dashboard is not loading at all, it's stuck on a blank white screen.",Technical
+Invoice question,Can you explain why my invoice this month is higher than usual?,Billing
+Appraisal cycle timing,When does the next performance appraisal cycle usually begin each year?,HR
+Leave balance query,How many casual leaves do I have remaining for this calendar year?,HR
+Vendor registration,How do I register as a vendor or supplier for your organization?,General
+Provident fund query,I have a question about how my provident fund contributions are calculated.,HR
+Failed transaction,My payment failed but the amount got deducted from my bank account anyway.,Billing
+Unrecognized charge,"There's an unrecognized charge of 499 rupees on my account, please investigate.",Billing
+Getting started docs,Do you have any documentation on how to get started using the platform?,General
+Bonus payment query,I wanted to check when the annual bonus is usually credited to employees.,HR
+Resignation notice period,What is the official notice period if I decide to resign from my role?,HR
+Internal job transfer,I'm interested in applying for an internal transfer to a different department.,HR
+App crashing on upload,"The app keeps crashing whenever I try to upload a file, very frustrating.",Technical
+Uncategorized question,I have a question that doesn't really fit into any of the usual categories.,General
+Password reset not sending,The password reset email never arrives no matter how many times I request it.,Technical
+Two-factor code not received,I'm not receiving the two-factor authentication code on my registered phone.,Technical
+Missing receipt,"I never received a receipt for my last payment, can you resend it please.",Billing
+Payment declined,My card was declined but the amount still shows as pending on my bank statement.,Billing
+Wrong amount billed,The amount billed doesn't match the plan I actually signed up for.,Billing
+Payslip request,"Could you send me my payslip for last month, I need it for a loan application.",HR
+Press inquiry,I'm a journalist and wanted to ask a few questions about your company for an article.,General
+Offer letter not received,"I haven't received my offer letter or onboarding documents yet, please check.",HR
+Sync not working,"The sync between my laptop and phone is broken, changes aren't updating.",Technical
+Auto-renewal charge,My subscription renewed automatically even though I cancelled it last week.,Billing
+Reimbursement pending,My travel reimbursement hasn't been processed even though I submitted it a month ago.,HR
+Careers inquiry,Are there any open positions currently available at your company right now?,General
+Discount not applied,The discount code I used at checkout didn't apply to my order total.,Billing
+Cancel subscription,I want to cancel my plan and get a refund for the unused period.,Billing
+Work from home policy,What's the current policy on working from home for our team?,HR
+File upload stuck,My file upload has been stuck at 40 percent for the last twenty minutes.,Technical
+Overcharged this cycle,"I think I was overcharged this billing cycle, can someone check my invoice?",Billing
+Search showing wrong data,There's a bug where the search bar shows outdated data every time I refresh.,Technical
